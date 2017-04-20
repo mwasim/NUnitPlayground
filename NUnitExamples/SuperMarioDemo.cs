@@ -40,9 +40,10 @@ namespace NUnitExamples
         private void InitializePowers()
         {
             Powers = new List<string> {
-                "Unlimited Lives",
-                "Untouchable",
                 "High Jumper",
+                "Long Jumper",
+                "Unlimited Lives",
+                "Untouchable",                               
                 //""
             };
         }

@@ -42,8 +42,12 @@
     <Compile Include="CollectionTests.cs" />
     <Compile Include="DateTimeEqualityDemo.cs" />
     <Compile Include="DateTimeEqualityTests.cs" />
+    <Compile Include="EmployeeFactory.cs" />
+    <Compile Include="ExceptionTests.cs" />
     <Compile Include="NullAndBooleanTests.cs" />
+    <Compile Include="ObjectTypeAndPropertiesTests.cs" />
     <Compile Include="RandomTests.cs" />
+    <Compile Include="ReferenceEqualityTests.cs" />
     <Compile Include="StringEqualityDemo.cs" />
     <Compile Include="StringEqualityDemoTests.cs" />
     <Compile Include="SuperMarioDemo.cs" />
